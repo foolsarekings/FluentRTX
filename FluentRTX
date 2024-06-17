@@ -16,6 +16,7 @@
 127.0.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
 127.0.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
 127.0.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
+127.0.0.1##.message-wrap.svelte-1ylopk1 pre:style(border-radius: 12px !important)
 
 192.168.1.100###main-chatbot-window(border-radius: 12px !important)
 192.168.1.100##div.svelte-iyf88w(border-radius: 12px !important)
@@ -30,6 +31,8 @@
 192.168.1.100###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
 192.168.1.100###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
 192.168.1.100##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
+192.168.1.100##.message-wrap.svelte-1ylopk1 pre:style(border-radius: 12px !important)
+
 
 10.0.0.1###main-chatbot-window(border-radius: 12px !important)
 10.0.0.1##div.svelte-iyf88w(border-radius: 12px !important)
@@ -44,6 +47,8 @@
 10.0.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
 10.0.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
 10.0.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
+10.0.0.1##.message-wrap.svelte-1ylopk1 pre:style(border-radius: 12px !important)
+
 
 192.168.0.1###main-chatbot-window(border-radius: 12px !important)
 192.168.0.1##div.svelte-iyf88w(border-radius: 12px !important)
@@ -58,6 +63,8 @@
 192.168.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
 192.168.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
 192.168.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
+192.168.0.1##.message-wrap.svelte-1ylopk1 pre:style(border-radius: 12px !important)
+
 
 172.16.0.1###main-chatbot-window(border-radius: 12px !important)
 172.16.0.1##div.svelte-iyf88w(border-radius: 12px !important)
@@ -73,6 +80,8 @@
 172.16.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
 172.16.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
 172.16.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
+172.16.0.1##.message-wrap.svelte-1ylopk1 pre:style(border-radius: 12px !important)
+
 
 192.168.2.1###main-chatbot-window(border-radius: 12px !important)
 192.168.2.1##div.svelte-iyf88w(border-radius: 12px !important)
@@ -87,4 +96,6 @@
 192.168.2.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
 192.168.2.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
 192.168.2.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
+192.168.2.1##.message-wrap.svelte-1ylopk1 pre:style(border-radius: 12px !important)
+
 
