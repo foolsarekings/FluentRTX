@@ -3,24 +3,88 @@
 ! Description: Fluent Theme for ChatRTX
 ! Author: foolsarekings, https://reddit.com/user/foolsarekings/
 
-127.0.0.1###main-chatbot-window:style(border-radius: 12px !important)
+127.0.0.1###main-chatbot-window(border-radius: 12px !important)
+127.0.0.1##div.svelte-iyf88w(border-radius: 12px !important)
+127.0.0.1##div.svelte-iyf88w>*(.absolute)(background-color: transparent !important)
+127.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .add-model-accordion(border: none !important)
+127.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .icon-button(border-radius: 40px !important)
+127.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .chat-window .message-row .message(border-radius: 12px !important)
+127.0.0.1##.gradio-container-4-26-0 button, .gradio-container-4-26-0 input, .gradio-container-4-26-0 optgroup, .gradio-container-4-26-0 select, .gradio-container-4-26-0 textarea(resize: none !important)
+127.0.0.1##.lg.svelte-cmf5ev(border-radius: 12px !important)
+127.0.0.1##.lg.svelte-cmf5ev(margin-left: 4px !important)
+127.0.0.1##.block.svelte-12cmxck(border-radius: 12px !important)
+127.0.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
+127.0.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
+127.0.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
 
-127.0.0.1##div.svelte-iyf88w:style(border-radius: 12px !important)
-127.0.0.1##div.svelte-iyf88w>*:not(.absolute):style(background-color: transparent !important)
+192.168.1.100###main-chatbot-window(border-radius: 12px !important)
+192.168.1.100##div.svelte-iyf88w(border-radius: 12px !important)
+192.168.1.100##div.svelte-iyf88w>*(.absolute)(background-color: transparent !important)
+192.168.1.100##gradio-app .gradio-container.gradio-container-4-26-0 .contain .add-model-accordion(border: none !important)
+192.168.1.100##gradio-app .gradio-container.gradio-container-4-26-0 .contain .icon-button(border-radius: 40px !important)
+192.168.1.100##gradio-app .gradio-container.gradio-container-4-26-0 .contain .chat-window .message-row .message(border-radius: 12px !important)
+192.168.1.100##.gradio-container-4-26-0 button, .gradio-container-4-26-0 input, .gradio-container-4-26-0 optgroup, .gradio-container-4-26-0 select, .gradio-container-4-26-0 textarea(resize: none !important)
+192.168.1.100##.lg.svelte-cmf5ev(border-radius: 12px !important)
+192.168.1.100##.lg.svelte-cmf5ev(margin-left: 4px !important)
+192.168.1.100##.block.svelte-12cmxck(border-radius: 12px !important)
+192.168.1.100###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
+192.168.1.100###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
+192.168.1.100##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
 
-127.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .add-model-accordion:style(border: none !important)
-127.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .icon-button:style(border-radius: 40px !important)
-127.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .chat-window .message-row .message:style(border-radius: 12px !important)
-127.0.0.1##.gradio-container-4-26-0 button, .gradio-container-4-26-0 input, .gradio-container-4-26-0 optgroup, .gradio-container-4-26-0 select, .gradio-container-4-26-0 textarea:style(resize: none !important)
+10.0.0.1###main-chatbot-window(border-radius: 12px !important)
+10.0.0.1##div.svelte-iyf88w(border-radius: 12px !important)
+10.0.0.1##div.svelte-iyf88w>*(.absolute)(background-color: transparent !important)
+10.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .add-model-accordion(border: none !important)
+10.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .icon-button(border-radius: 40px !important)
+10.0.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .chat-window .message-row .message(border-radius: 12px !important)
+10.0.0.1##.gradio-container-4-26-0 button, .gradio-container-4-26-0 input, .gradio-container-4-26-0 optgroup, .gradio-container-4-26-0 select, .gradio-container-4-26-0 textarea(resize: none !important)
+10.0.0.1##.lg.svelte-cmf5ev(border-radius: 12px !important)
+10.0.0.1##.lg.svelte-cmf5ev(margin-left: 4px !important)
+10.0.0.1##.block.svelte-12cmxck(border-radius: 12px !important)
+10.0.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
+10.0.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
+10.0.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
 
-127.0.0.1##.lg.svelte-cmf5ev:style(border-radius: 12px !important)
-127.0.0.1##.lg.svelte-cmf5ev:style(margin-left: 4px !important)
+192.168.0.1###main-chatbot-window(border-radius: 12px !important)
+192.168.0.1##div.svelte-iyf88w(border-radius: 12px !important)
+192.168.0.1##div.svelte-iyf88w>*(.absolute)(background-color: transparent !important)
+192.168.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .add-model-accordion(border: none !important)
+192.168.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .icon-button(border-radius: 40px !important)
+192.168.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .chat-window .message-row .message(border-radius: 12px !important)
+192.168.0.1##.gradio-container-4-26-0 button, .gradio-container-4-26-0 input, .gradio-container-4-26-0 optgroup, .gradio-container-4-26-0 select, .gradio-container-4-26-0 textarea(resize: none !important)
+192.168.0.1##.lg.svelte-cmf5ev(border-radius: 12px !important)
+192.168.0.1##.lg.svelte-cmf5ev(margin-left: 4px !important)
+192.168.0.1##.block.svelte-12cmxck(border-radius: 12px !important)
+192.168.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
+192.168.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
+192.168.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
 
-127.0.0.1##.block.svelte-12cmxck:style(border-radius: 12px !important)
+172.16.0.1###main-chatbot-window(border-radius: 12px !important)
+172.16.0.1##div.svelte-iyf88w(border-radius: 12px !important)
+172.16.0.1##div.svelte-iyf88w>*(.absolute)(background-color: transparent !important)
+172.16.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .add-model-accordion(border: none !important)
+172.16.0.1##gradio-app .gradio-container.gradio-container-4-26
+172.16.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .icon-button(border-radius: 40px !important)
+172.16.0.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .chat-window .message-row .message(border-radius: 12px !important)
+172.16.0.1##.gradio-container-4-26-0 button, .gradio-container-4-26-0 input, .gradio-container-4-26-0 optgroup, .gradio-container-4-26-0 select, .gradio-container-4-26-0 textarea(resize: none !important)
+172.16.0.1##.lg.svelte-cmf5ev(border-radius: 12px !important)
+172.16.0.1##.lg.svelte-cmf5ev(margin-left: 4px !important)
+172.16.0.1##.block.svelte-12cmxck(border-radius: 12px !important)
+172.16.0.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
+172.16.0.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
+172.16.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
 
-127.0.0.1###component-138 > div.svelte-1ed2p3z:last-child > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
-
-127.0.0.1###component-6 > div.svelte-1ed2p3z:last-child > div.prose.svelte-1ybaih5 > h1
-
-127.0.0.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent:style(display: none !important)
+192.168.2.1###main-chatbot-window(border-radius: 12px !important)
+192.168.2.1##div.svelte-iyf88w(border-radius: 12px !important)
+192.168.2.1##div.svelte-iyf88w>*(.absolute)(background-color: transparent !important)
+192.168.2.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .add-model-accordion(border: none !important)
+192.168.2.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .icon-button(border-radius: 40px !important)
+192.168.2.1##gradio-app .gradio-container.gradio-container-4-26-0 .contain .chat-window .message-row .message(border-radius: 12px !important)
+192.168.2.1##.gradio-container-4-26-0 button, .gradio-container-4-26-0 input, .gradio-container-4-26-0 optgroup, .gradio-container-4-26-0 select, .gradio-container-4-26-0 textarea(resize: none !important)
+192.168.2.1##.lg.svelte-cmf5ev(border-radius: 12px !important)
+192.168.2.1##.lg.svelte-cmf5ev(margin-left: 4px !important)
+192.168.2.1##.block.svelte-12cmxck(border-radius: 12px !important)
+192.168.2.1###component-138 > div.svelte-1ed2p3z > div.prose.description-secondary-markdown.chat-disclaimer-message.margin-.svelte-1yrv54 > span.md.svelte-1k4ye9u.prose > p
+192.168.2.1###component-6 > div.svelte-1ed2p3z > div.prose.svelte-1ybaih5 > h1
+192.168.2.1##.wrap.default.default.minimal.svelte-12bm2fk.translucent(display: none !important)
 
